@@ -3,7 +3,7 @@
 // Enter your Personal Acces Token 		//
 // below and rename file to config.php 	//
 // ************************************ //
-$api_key = "xxx";
+$api_key = "0/3587e60b35fc8aa37b1c2056be2c1adc";
 
 
 // Safety feature so people cannot access this page and steal your API key
